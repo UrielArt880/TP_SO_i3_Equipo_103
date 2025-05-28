@@ -52,3 +52,29 @@ Adaptador de Ethernet vEthernet (Default Switch):
    M scara de subred . . . . . . . . . . . . : 255.255.240.0
    Puerta de enlace predeterminada . . . . . : 
 Hora: 12:26:32
+
+
+Lucas Bernardez
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::c5f1:fcdd:2126:78a8%11
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2802:8010:2353:3c00:44ac:33cc:5ef9:b3e8
+   Temporary IPv6 Address. . . . . . : 2802:8010:2353:3c00:75f7:2db8:4c68:c1d
+   Link-local IPv6 Address . . . . . : fe80::2ff:e65:ee72:81cf%10
+   IPv4 Address. . . . . . . . . . . : 192.168.1.109
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::a6a:aff:feb6:32a3%10
+                                       192.168.1.1
+Hora: 12:38:32
