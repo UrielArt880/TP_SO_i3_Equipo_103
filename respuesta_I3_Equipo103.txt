@@ -1,0 +1,8 @@
+a-¿Cómo queda el máster después de estos cambios? se reflejan todos los archivos correspondientes con su contenido
+b-¿Beta pudo ver todos los cambios que se realizaron? Si
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ? Dado que falto el integrante Gamma para el ejercicio, se realizo todo en la rama main, pues nunca se creo la rama externa de Gamma, sin embargo para realizar el merge en el punto 9 use los siguientes comandos:
+git checkout main
+git merge arteaga
+git add .
+git commit
+git push origin main
