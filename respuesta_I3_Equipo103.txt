@@ -1,0 +1,1 @@
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido? Luego de hacer pull con la nueva rama, uso checkout para moverme a ella y luego ejecutar { echo ; ipconfig; echo Hora: 13:05:45; } > beta.txt
