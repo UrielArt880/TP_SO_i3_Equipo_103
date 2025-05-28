@@ -1,0 +1,54 @@
+Uriel Arteaga
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7c68:391d:bf64:da6a%19
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Local Area Connection* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Local Area Connection* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:40:77:336:67ae:d933:6875:ca85
+   Direcci¢n IPv6 temporal. . . . . . : 2800:40:77:336:5c3a:ea99:dcd4:1857
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7797:d806:3355:888%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.4
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.1.1
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:2877:7aa:3855:a17:412d:dbc4
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3855:a17:412d:dbc4%18
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ec53:4f75:1726:f864%28
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.30.240.1
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+Hora: 12:26:32
